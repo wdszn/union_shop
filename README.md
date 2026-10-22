@@ -2,7 +2,7 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.13-blue.svg)](https://flutter.dev)
 
-**Author:** waynedsz
+**Author:** wdszn
 **Project Type:** E-commerce Mobile App (Flutter)
 
 ---
