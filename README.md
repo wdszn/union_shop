@@ -84,7 +84,7 @@ union_shop/
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/waynedsz/union_shop.git
+git clone https://github.com/wdszn/union_shop.git
 cd union_shop
 ```
 
